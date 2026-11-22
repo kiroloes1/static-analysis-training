@@ -1,0 +1,21 @@
+{
+    "repository": "static-analysis-training",
+    "base_commit": "HEAD~1",
+    "head_commit": "HEAD",
+    "changed_files": [
+        {
+            "file": "src/calculator.py",
+            "status": "modified"
+        },
+        {
+            "file": "src/user_service.py",
+            "status": "modified"
+        }
+    ],
+    "summary": {
+        "modified": 2,
+        "added": 0,
+        "deleted": 0,
+        "renamed": 0
+    }
+}
